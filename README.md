@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @h4rrye
-- 👀 I’m interested in Data Analytics, Computational Biology and Making Music
-- 🌱 I’m currently learning Machine Learning Models on python and statistics on R
-- 💞️ I’m looking to collaborate on Bioinfoamtics [NGS, Micro Array, 3D chromosome str], Computational Biology and Making Music
+- 👀 I like Data Science, Computational Biology and Network Science.
+- 🎹 I make music in my free time.
+- 🌱 I’m currently exploring the use of machine learnign models and network science in biology.
 - 📫 How to reach me ... email: 808harpreet@gmail.com, IG: @hrrysprk
 
 <!---
