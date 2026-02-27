@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" width="100%"/>
+<img src="https://media4.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" width="70%"/>
 
 # Hey, I'm Harpreet
 
