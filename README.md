@@ -2,7 +2,7 @@
 
 <img src="https://media4.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" width="100%"/>
 
-# Hey, I'm Harpreet 👋
+# Hey, I'm Harpreet
 
 **`Computational Biologist × Data Scientist × Musician`**
 
