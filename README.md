@@ -37,7 +37,7 @@
 | | Project | Description | Stack |
 |---|---------|-------------|-------|
 | 🧬 | [**GenBrowser**](https://h4rrye.github.io/genBrowser) | Interactive 3D chromosome visualization with a novel surface accessibility algorithm | `Three.js` `TypeScript` `Vite` |
-| 🔗 | **ChromApipe** | Production bioinformatics pipeline for chromosome annotation & network analysis | `Nextflow` `Python` `AWS Batch` `Docker` |
+| 🔗 | [**ChromApipe**](https://github.com/h4rrye/chromApipe) | Production bioinformatics pipeline for chromosome annotation & network analysis | `Nextflow` `Python` `AWS Batch` `Docker` |
 | 🚀 | **spaceGen** | ML pipeline for NASA spaceflight gene expression data | `Python` `scikit-learn` `MLflow` |
 
 ---
