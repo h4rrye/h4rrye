@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ5OGVqN2lhNnRhNW9rYnBpMGtmNHVxcjVtdGVoYW5jcjk0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7budMRwZvNGJ3pyE/giphy.gif" width="200"/>
+<img src="https://media4.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" width="480"/>
 
 # Hey, I'm Harpreet 👋
 
@@ -60,9 +60,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h4rrye&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+<a href="https://github.com/h4rrye">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4rrye&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</a>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JxbGhoaXlsdjR3MjE0cjgzbHdxY3VwbGVoZDNsNnRsYjBibThnaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYEqEzwMkmg0tWM/giphy.gif" width="150"/>
+<br/><br/>
+
+<img src="https://media2.giphy.com/media/63KSkfpPanZkndVH4G/giphy.gif" width="300"/>
 
 *From chromosomes to constellations — decoding biology, one pipeline at a time.* 🧬✨
 
