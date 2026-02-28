@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" width="70%"/>
+<img src="https://media4.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" width="100%"/>
 
-# Hey, I'm Harpreet
+# Hey, I'm Harpreet 👋
 
 **`Computational Biologist × Data Scientist × Musician`**
 
@@ -39,6 +39,7 @@
 | 🧬 | [**GenBrowser**](https://h4rrye.github.io/genBrowser) | Interactive 3D chromosome visualization with a novel surface accessibility algorithm | `Three.js` `TypeScript` `Vite` |
 | 🔗 | [**ChromApipe**](https://github.com/h4rrye/chromApipe) | Production bioinformatics pipeline for chromosome annotation & network analysis | `Nextflow` `Python` `AWS Batch` `Docker` |
 | 🚀 | **spaceGen** | ML pipeline for NASA spaceflight gene expression data | `Python` `scikit-learn` `MLflow` |
+| 📜 | [**PolicyLens**](https://github.com/tanav2202/PolicyLens) | LLM-powered course policy QA system with intent classification & structured facts retrieval | `FastAPI` `React` `TypeScript` `Ollama` |
 
 ---
 
