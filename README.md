@@ -5,7 +5,7 @@
 
 **`Computational Biologist × Data Scientist × Musician`**
 
-[![Portfolio](https://img.shields.io/badge/🔭_Portfolio-h4rrye.github.io-blueviolet?style=for-the-badge)](https://h4rrye.github.io)
+[![Portfolio](https://img.shields.io/badge/🔭_Portfolio-hrrysprk.github.io-blueviolet?style=for-the-badge)](https://hrrysprk.github.io)
 [![Email](https://img.shields.io/badge/Email-808harpreet@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:808harpreet@gmail.com)
 [![Instagram](https://img.shields.io/badge/@hrrysprk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hrrysprk)
 
@@ -31,9 +31,9 @@
 
 | | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 🧬 | [**GenBrowser**](https://h4rrye.github.io/genBrowser) | Interactive 3D chromosome visualization with a novel surface accessibility algorithm | `Three.js` `TypeScript` `Vite` |
-| 🔗 | [**ChromApipe**](https://github.com/h4rrye/chromApipe) | Cloud-native bioinformatics pipeline for chromosome accessibility analysis | `Nextflow` `Python` `AWS Batch` `Docker` |
-| 🚀 | [**spaceGen**](https://github.com/h4rrye/spaceGen) | ML pipeline investigating how microgravity rewires gene expression in brain tissue | `Python` `Scanpy` `MLflow` `MuData` |
+| 🧬 | [**GenBrowser**](https://hrrysprk.github.io/genBrowser) | Interactive 3D chromosome visualization with a novel surface accessibility algorithm | `Three.js` `TypeScript` `Vite` |
+| 🔗 | [**ChromApipe**](https://github.com/hrrysprk/chromApipe) | Cloud-native bioinformatics pipeline for chromosome accessibility analysis | `Nextflow` `Python` `AWS Batch` `Docker` |
+| 🚀 | [**spaceGen**](https://github.com/hrrysprk/spaceGen) | ML pipeline investigating how microgravity rewires gene expression in brain tissue | `Python` `Scanpy` `MLflow` `MuData` |
 | 📜 | [**PolicyLens**](https://github.com/tanav2202/PolicyLens) | LLM-powered course policy QA system with intent classification and structured fact retrieval | `FastAPI` `React` `TypeScript` `Ollama` |
 
 ---
@@ -63,8 +63,8 @@
 ---
 
 <div align="center">
-<a href="https://github.com/h4rrye">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4rrye&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+<a href="https://github.com/hrrysprk">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrrysprk&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </a>
 <br/><br/>
 <img src="https://media2.giphy.com/media/63KSkfpPanZkndVH4G/giphy.gif" width="300"/>
