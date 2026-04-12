@@ -15,6 +15,25 @@
 ```
 🧬 Mapping chromosomes in 3D  ·  🚀 Launching ML into space biology  ·  🎹 Making beats after midnight
 ```
+```markdown
+<div align="center">
+<img src="https://media4.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" width="100%"/>
+
+# Hey, I'm Harpreet
+
+**`Computational Biologist × ML Engineer × Musician`**
+
+[![Portfolio](https://img.shields.io/badge/🔭_Portfolio-hrrysprk.com-blueviolet?style=for-the-badge)](https://hrrysprk.com)
+[![Email](https://img.shields.io/badge/Email-808harpreet@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:808harpreet@gmail.com)
+[![Instagram](https://img.shields.io/badge/@hrrysprk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hrrysprk)
+
+</div>
+
+---
+
+```
+🧬 Mapping chromosomes in 3D  ·  🚀 Launching ML into space biology  ·  🎹 Making beats after midnight
+```
 
 ---
 
@@ -32,7 +51,7 @@
 
 | | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 🧬 | [**GenBrowser**](https://hrrysprk.com) | Interactive 3D chromosome visualization with a novel surface accessibility algorithm | `Three.js` `TypeScript` `Vite` |
+| 🧬 | [**GenBrowser**](https://hrrysprk.github.io/genBrowser/) | Interactive 3D chromosome visualization with a novel surface accessibility algorithm | `Three.js` `TypeScript` `Vite` |
 | 🔗 | [**ChromApipe**](https://github.com/hrrysprk/chromApipe) | Cloud-native bioinformatics pipeline for chromosome accessibility analysis | `Nextflow` `Python` `AWS Batch` `Docker` |
 | 🚀 | [**spaceGen**](https://github.com/hrrysprk/spaceGen) | ML pipeline investigating how microgravity rewires gene expression in brain tissue | `Python` `Scanpy` `MLflow` `MuData` |
 | 📜 | [**PolicyLens**](https://github.com/tanav2202/PolicyLens) | LLM-powered course policy QA system with intent classification and structured fact retrieval | `FastAPI` `React` `TypeScript` `Ollama` |
@@ -55,9 +74,11 @@
 
 **ML & Data** &nbsp;&nbsp; ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
-**Viz** &nbsp;&nbsp; ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat&logo=threedotjs&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+**Viz & Frontend** &nbsp;&nbsp; ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat&logo=threedotjs&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 **Pipelines & Cloud** &nbsp;&nbsp; ![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=flat&logo=nextflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
+**AI Dev** &nbsp;&nbsp; ![Claude](https://img.shields.io/badge/Claude-D4A27F?style=flat&logo=anthropic&logoColor=white) ![Kiro](https://img.shields.io/badge/Kiro_IDE-6B48FF?style=flat&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat&logo=github&logoColor=white)
 
 </div>
 
@@ -73,3 +94,4 @@
 *From chromosomes to constellations — decoding biology, one pipeline at a time.* 🧬✨
 
 </div>
+```
