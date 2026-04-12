@@ -12,9 +12,15 @@
 </div>
 
 ---
+
 ```
 🧬 Mapping chromosomes in 3D  ·  🚀 Launching ML into space biology  ·  🎹 Making beats after midnight
 ```
+
+The issue is the file got duplicated, the header section appears twice and there are nested code fences. Here is the clean version:
+
+---
+
 ```markdown
 <div align="center">
 <img src="https://media4.giphy.com/media/s1IJ0L8hZ4wms/giphy.gif" width="100%"/>
@@ -95,3 +101,4 @@
 
 </div>
 ```
+
