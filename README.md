@@ -3,9 +3,9 @@
 
 # Hey, I'm Harpreet
 
-**`Computational Biologist × Data Scientist × Musician`**
+**`Computational Biologist × ML Engineer × Musician`**
 
-[![Portfolio](https://img.shields.io/badge/🔭_Portfolio-hrrysprk.github.io-blueviolet?style=for-the-badge)](https://hrrysprk.github.io)
+[![Portfolio](https://img.shields.io/badge/🔭_Portfolio-hrrysprk.com-blueviolet?style=for-the-badge)](https://hrrysprk.com)
 [![Email](https://img.shields.io/badge/Email-808harpreet@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:808harpreet@gmail.com)
 [![Instagram](https://img.shields.io/badge/@hrrysprk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hrrysprk)
 
@@ -22,7 +22,8 @@
 
 🎓 &nbsp; MDS @ **UBC** · BS-MS Biological Sciences @ **IISER Mohali**  
 🔬 &nbsp; 3 peer-reviewed publications in *Nature NPJ*, *BMC Genomics* & *Genetics*  
-🌱 &nbsp; Currently digging into **machine learning** and **network science** in biology  
+🌱 &nbsp; Building at the intersection of **transformer models**, **single-cell ML**, and **genomics**  
+🤖 &nbsp; AI-assisted development: Claude, Kiro IDE, Cursor Agent, multi-model validation  
 🎹 &nbsp; I make music when the pipelines are running  
 
 ---
@@ -31,7 +32,7 @@
 
 | | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 🧬 | [**GenBrowser**](https://hrrysprk.github.io/genBrowser) | Interactive 3D chromosome visualization with a novel surface accessibility algorithm | `Three.js` `TypeScript` `Vite` |
+| 🧬 | [**GenBrowser**](https://hrrysprk.com) | Interactive 3D chromosome visualization with a novel surface accessibility algorithm | `Three.js` `TypeScript` `Vite` |
 | 🔗 | [**ChromApipe**](https://github.com/hrrysprk/chromApipe) | Cloud-native bioinformatics pipeline for chromosome accessibility analysis | `Nextflow` `Python` `AWS Batch` `Docker` |
 | 🚀 | [**spaceGen**](https://github.com/hrrysprk/spaceGen) | ML pipeline investigating how microgravity rewires gene expression in brain tissue | `Python` `Scanpy` `MLflow` `MuData` |
 | 📜 | [**PolicyLens**](https://github.com/tanav2202/PolicyLens) | LLM-powered course policy QA system with intent classification and structured fact retrieval | `FastAPI` `React` `TypeScript` `Ollama` |
